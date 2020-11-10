@@ -1,7 +1,7 @@
 {
 "companyName": "Hand Snakes Ltd",
 "productName": "Rocket",
-"productVersion": "0.71",
+"productVersion": "0.73",
 "dataUrl": "RocketWebGL.data.unityweb",
 "wasmCodeUrl": "RocketWebGL.wasm.code.unityweb",
 "wasmFrameworkUrl": "RocketWebGL.wasm.framework.unityweb",
